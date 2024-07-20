@@ -65,8 +65,8 @@ collection_option:
     label: Internship
     visibility: true
   publications: 
-    label: Publications
-    visibility: false
+    label: Publications (update in process)
+    visibility: true
   volunteerexperience: 
     label: Volunteer Experience
     visibility: false
