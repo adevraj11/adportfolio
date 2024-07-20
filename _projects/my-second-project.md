@@ -1,8 +1,8 @@
 ---
-title: My Second Project
+title: Sahapedia-UNESCO Project
 layout: project
-year: 2020
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+year: 2019
+excerpt: Project Title - Bishnuprasad Rabha : Artist, Revolutionary, and Assamese Cultural Icon 
 tags: [HTML, CSS, JavaScript]
 comments: false
 ---
