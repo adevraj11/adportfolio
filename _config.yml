@@ -44,7 +44,7 @@ collections:
     output: false
     sort_by: order
   certifications:
-    output: false
+    output: true
     sort_by: year
   achievements:
     output: false
