@@ -1,6 +1,6 @@
 ---
 title: Assistant Professor
-duration: Royal Global University, Guwahati <br> August, 2019 - Present
+duration: <strong>Royal Global University, Guwahati</strong> <br> August, 2019 - Present
 excerpt: 
 order: 1
 ---
