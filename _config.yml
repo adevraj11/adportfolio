@@ -62,8 +62,8 @@ collection_option:
     label: Projects
     visibility: true
   skills: 
-    label: Technical Skills
-    visibility: false
+    label: Internship
+    visibility: true
   publications: 
     label: Publications
     visibility: false
