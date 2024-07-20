@@ -1,7 +1,7 @@
 ---
 degree: MA in English
 institute: Tezpur University, 2012-2017 
-duration: Dissertation - Sexuality and Segregation in Select Plays of Mahesh Dattani, under the supervision of Prof. PK Das
+duration: Dissertation:Sexuality and Segregation in Select Plays of Mahesh Dattani\ Supervisor:Prof. PK Das
 excerpt: 
 order: 1
 ---
