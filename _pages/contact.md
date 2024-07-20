@@ -13,5 +13,5 @@ PIN- 781035 <br>
 <br>
 
 ## Email <br>
-Work&#58; adevraj [AT] rgu [DOT] ac <br>
+Work&#58; adevraj [AT] rgu [DOT] ac <br> <br>
 Personal&#58; ayushman [AT] hotmail [DOT] co [DOT] in
