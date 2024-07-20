@@ -72,15 +72,15 @@ collection_option:
     visibility: false
   certifications: 
     label: Certifications
-    visibility: false
+    visibility: true
   achievements: 
     label: Achievements
-    visibility: false
+    visibility: true
 
 navigation:
 - title: About
   url: /
-- title: Blog
+- title: Posts
   url: /blog/
 - title: Contact
   url: /contact
