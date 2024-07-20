@@ -1,7 +1,7 @@
 ---
 title: Sahapedia-UNESCO Fellowship, 2019
 layout: project
-year: Bishnuprasad Rabha:: Artist, Revolutionary, and Assamese Cultural Icon
+year: Bishnuprasad Rabha::: Artist, Revolutionary, and Assamese Cultural Icon
 project-url: https://map.sahapedia.org/fellowshipsandgrants/POI/100003/11405
 excerpt: 
 project-image: https://imgur.com/I51nVSY
