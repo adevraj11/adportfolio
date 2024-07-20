@@ -1,12 +1,9 @@
 ---
-title: My First Publication
-year: 2018
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
-pub-image: https://placehold.co/600x300
-pub-url: https://researchgate.net
-comments: true
+title: Cultural Hybridity and the Russian-American (Con)Text&#58; A Study of Gary
+Shteyngart’s <em>Little Failure</em> 
+year: 2020
+excerpt: Indian Journal of Russian Studies, Volume 2
+pub-image: 
+pub-url: https://ijrs.online/ijrs/images/Contents_Vol2.pdf
+comments: false
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
