@@ -3,7 +3,7 @@ tagline: Literary Scholar and Educator
 career-objective: Welcome to the personal homepage of Ayushman Devraj. Here, you can explore my academic journey, research interests, and professional achievements. Stay updated with my latest publications and projects in the field of English literature.
 color-theme: red # red or blue
 avatar-filename: avatar.jpg # Change to your avatar's filename
-url: academicportfolio.github.io
+url: ayushmandevraj.net.in
 baseurl: /
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -12,16 +12,16 @@ paginate_path: "/blog/page:num/"
 social:
   email: 
     visibility: true
-    mail: contact@arnob.me
+    mail: adevraj@rgu.ac
   github: 
-    visibility: true
+    visibility: false
     handle: arnobk
   linkedin: 
     visibility: true
-    handle: arnobkarmokar
+    handle: ayushmandevraj
   twitter: 
     visibility: true
-    handle: arnobdotme
+    handle: aydevraj
 
 # Collections
 collections:
