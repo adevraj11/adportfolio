@@ -8,4 +8,4 @@ project-image:
 tags: [nationalism, assam, bishnuprasad rabha]
 comments: true
 ---
-This is a study of the contributions of Bishnuprasad Rabha – an artist of the highest order and an Assamese cultural icon – to the Assamese society in general and his role in shaping and steering the Indian freedom movement in Assam in particular. <br>
+This is a study of the contributions of Bishnuprasad Rabha – an artist of the highest order and an Assamese cultural icon – to the Assamese society in general and his role in shaping and steering the Indian freedom movement in Assam in particular.
