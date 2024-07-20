@@ -1,6 +1,6 @@
 ---
 title: Assistant Professor
-duration: Royal Global University, Guwahati, August, 2019 - Present
+duration: B Borooah College, Guwahati, August, 2017 - July 2019
 excerpt: 
 order: 1
 ---
