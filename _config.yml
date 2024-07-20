@@ -1,6 +1,6 @@
 name: Ayushman Devraj
 tagline: Literary Scholar and Educator
-career-objective: Welcome to the personal homepage of Ayushman Devraj. Here, you can explore my academic journey, research interests, and professional achievements. Stay updated with my latest publications and projects in the field of English literature and cultutal studies. 
+career-objective: Welcome to my personal homepage. <br> Here, you can explore my academic journey, research interests, and professional achievements. Stay updated with my latest publications and projects in the field of English literature and cultutal studies. 
 color-theme: red # red or blue
 avatar-filename: avatar.jpg # Change to your avatar's filename
 url: ayushmandevraj.in
@@ -117,7 +117,7 @@ defaults:
 
 # Disqus Comment
 disqus:
-  shortname: academic-portfolio # Change with your own disqus shortname
+  shortname:  # Change with your own disqus shortname
 
 # Contact Form
 formspree:
