@@ -66,10 +66,10 @@ collection_option:
     visibility: false
   publications: 
     label: Publications
-    visibility: true
+    visibility: false
   volunteerexperience: 
     label: Volunteer Experience
-    visibility: true
+    visibility: false
   certifications: 
     label: Certifications
     visibility: true
