@@ -1,6 +1,6 @@
 ---
 title: Assistant Professor
-duration: <strong> B Borooah College, Guwahati, August, 2017 - July 2019 </strong>
+duration: B Borooah College, Guwahati <br> August, 2017 - July 2019
 excerpt: 
 order: 2
 ---
