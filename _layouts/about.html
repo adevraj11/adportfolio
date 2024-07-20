@@ -104,9 +104,9 @@ layout: default
 </div>
 {% endif %}
 
-{% if site.collection_option['certifications']['visibility'] == true %}
+{% if site.collection_option['TEST']['visibility'] == true %}
 <div class="ap-line"></div>
-<!-- TEST -->
+<!-- CERTIFICATIONS -->
 <div class="ap-block">
     <p class="ap-subtitle">{{site.collection_option['certifications']['label']}}</p>
     {% for certificate in site.certifications reversed %}
