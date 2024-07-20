@@ -74,7 +74,7 @@ collection_option:
     label: Academic Engagements (recent five)
     visibility: true
   achievements: 
-    label: Achievements
+    label: Award/Fellowship
     visibility: true
 
 navigation:
