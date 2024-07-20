@@ -71,7 +71,7 @@ collection_option:
     label: Volunteer Experience
     visibility: false
   certifications: 
-    label: Seminars/Workshops/FDPs <em>(recent five)</em>
+    label: Academic Engagements <em>(recent five)</em>
     visibility: true
   achievements: 
     label: Achievements

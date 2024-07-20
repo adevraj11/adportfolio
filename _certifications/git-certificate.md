@@ -1,7 +1,5 @@
 ---
-title: Git Certificate
-institute: Coursera
-year: 2020
-certificate_url: https://coursera.com/
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+title: UGC NEP Orientation and Sensitization Program  
+institute: Malaviya Mission Teacher Training Programme, Tezpur Universty
+year: 04-13 June, 2024
 ---
