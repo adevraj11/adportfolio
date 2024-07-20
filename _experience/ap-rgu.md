@@ -1,7 +1,6 @@
 ---
-title: The Assam Royal Global University, Guwahati
-duration: Assistant Professor of English <br>
-         August, 2019 - Present
-excerpt: August, 2019 - Present
+title: Assistant Professor
+duration: Royal Global University, Guwahati, August, 2019 - Present
+excerpt: 
 order: 1
 ---
