@@ -1,6 +1,6 @@
 ---
-title: Kotlin Certificate
-institute: Udemy
-year: 2022
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+title: Workshop on Qualitative Methods in Social Sciences&#58; Ethnography, Narratives and Social Stories 
+institute: OKD Institute of Social Change and Development, Guwahati
+year: 10-14 June, 2019
+excerpt: Joint Organisers&#58; Council for Social Development, New Delhi, GB Pant Social Sciences Institute, Allahabad and Anthropological Survey of India, Kolkata
 ---
