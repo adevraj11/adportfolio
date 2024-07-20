@@ -29,7 +29,7 @@ collections:
     output: true
     sort_by: order
   education:
-    output: false
+    output: true
     sort_by: order
   projects:
     output: true
