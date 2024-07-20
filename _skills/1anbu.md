@@ -1,5 +1,5 @@
 ---
-category: <strong>Graduate Intern</strong>, Dept. of Mass Communication and Journalism, Tezpur University
-details: Edited and Published a campus daily, <em>TU Beats</em> under Prof. P. Anbarasan.
+category: Graduate Intern, MCJ, Tezpur University
+details: Edited and Published a campus daily, <em>TU Beats</em> under Prof. P. Anbarasan <br> + June-July 2014
 order: 1
 ---
