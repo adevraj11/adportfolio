@@ -1,6 +1,6 @@
 ---
-title: Engineer, Company B
-duration: 2020 - 2022
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+title: Assistant Professor (Guest), B Borooah College, Guwahati
+duration: August, 2017 - July, 2019
+excerpt: Taught English to Higher Secondary and Undergraduate students under gauhati University. Served as an evaluator for the AHSEC final examinations. 
 order: 2
 ---
