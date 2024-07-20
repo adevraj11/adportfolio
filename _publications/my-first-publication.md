@@ -5,5 +5,4 @@ year: 2020
 excerpt: Indian Journal of Russian Studies, Volume 2
 pub-image: 
 pub-url: https://ijrs.online/ijrs/images/Contents_Vol2.pdf
-comments: false
 ---
