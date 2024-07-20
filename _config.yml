@@ -71,7 +71,7 @@ collection_option:
     label: Volunteer Experience
     visibility: false
   certifications: 
-    label: Academic Engagements <em>(recent five)</em>
+    label: Academic Engagements (recent five)
     visibility: true
   achievements: 
     label: Achievements
