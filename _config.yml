@@ -63,7 +63,7 @@ collection_option:
     visibility: true
   skills: 
     label: Technical Skills
-    visibility: true
+    visibility: false
   publications: 
     label: Publications
     visibility: true
