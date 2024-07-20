@@ -71,7 +71,7 @@ collection_option:
     label: Volunteer Experience
     visibility: false
   certifications: 
-    label: Certifications
+    label: Seminars/Conferences/Workshops/FDPs Attended <em>(five most recent)</em>
     visibility: true
   achievements: 
     label: Achievements
